@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CA" />
+        <module name="Client" />
+        <module name="ConfigurationUtils" />
+        <module name="CryptoAPI" />
+        <module name="RA" />
+        <module name="Repository" />
+        <module name="VA" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CA" target="1.5" />
+      <module name="Client" target="1.8" />
+      <module name="Configuration" target="1.5" />
+      <module name="ConfigurationUtils" target="1.5" />
+      <module name="CryptoAPI" target="1.5" />
+      <module name="PKI" target="1.5" />
+      <module name="RA" target="1.5" />
+      <module name="Repository" target="1.5" />
+      <module name="VA" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

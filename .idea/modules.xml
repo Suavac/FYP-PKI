@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CA/CA.iml" filepath="$PROJECT_DIR$/CA/CA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationUtils/ConfigurationUtils.iml" filepath="$PROJECT_DIR$/ConfigurationUtils/ConfigurationUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CryptoAPI/CryptoAPI.iml" filepath="$PROJECT_DIR$/CryptoAPI/CryptoAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PKI.iml" filepath="$PROJECT_DIR$/PKI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA/RA.iml" filepath="$PROJECT_DIR$/RA/RA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repository/Repository.iml" filepath="$PROJECT_DIR$/Repository/Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VA/VA.iml" filepath="$PROJECT_DIR$/VA/VA.iml" />
+    </modules>
+  </component>
+</project>
